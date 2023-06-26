@@ -1,1 +1,2 @@
-My First README
+My Name is Jessica 
+I am a Software engineering Student
